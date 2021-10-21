@@ -19,6 +19,6 @@ further Improvements:
 5. need to implement the logic to pass the data between scenario steps using ThreadLocal class to run the scenarios in parallel
 
 
-Execution Report Image:
+Execution Report Image:Attached in repo Capture*.PNG
 
 
