@@ -23,7 +23,7 @@ pipeline {
 
         stage('perfomance test') {
           steps {
-            timeout(time: 5) {
+            timeout(time: 10, activity: true) {
               echo 'echo'
             }
 
