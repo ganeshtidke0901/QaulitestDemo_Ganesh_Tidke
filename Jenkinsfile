@@ -12,6 +12,7 @@ pipeline {
         stage('test') {
           steps {
             echo 'hello test'
+            build 'freestyle'
           }
         }
 
